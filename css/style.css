@@ -1,0 +1,79 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+#top-bar #company-info a{
+    color: rgb(33 37 41 / 75%);
+    transition: color .5s;
+}
+#top-bar #company-info a:hover {
+    color: #d87f73;
+}
+#cart-top-bar > i
+{  
+    color: #d87f73;
+}
+#cart-top-bar > a
+{
+    color: black
+}
+#cart-top-bar > a:hover
+{
+    color: #d87f73;
+}
+#social-top-bar > a
+{
+    color: rgb(33 37 41 / 75%);
+}
+#social-top-bar a:hover
+{
+    padding: 1px 3px;
+    background-color: #d87f73;  
+}
+
+
+
+.bg-info
+{
+    background-color: #62A8B4 !important;
+}
+.bg-gray
+{
+    background-color: #9D90A1;
+}
+.border-top-left-radious{
+    border-top-left-radius: 30px;
+    border-right: 20px solid white;
+    border-bottom: 20px solid white;
+}
+
+.border-top-right-radious{
+    border-top-right-radius: 30px;
+    border-bottom: 20px solid white;
+}
+.border-bottom-right-radious{
+    border-bottom-right-radius: 30px;
+}
+.border-bottom-left-radious{
+    border-bottom-left-radius: 30px;
+    border-right: 20px solid white;
+    
+}
+
+
+
+.border-top-left-radious-two{
+    border-top-left-radius: 30px;
+}
+
+.border-top-right-radious-two{
+    border-top-right-radius: 30px;
+}
+.border-bottom-right-radious-two{
+    border-bottom-right-radius: 30px;
+}
+.border-bottom-left-radious-two{
+    border-bottom-left-radius: 30px;
+    border-right: 20px solid white;
+}
